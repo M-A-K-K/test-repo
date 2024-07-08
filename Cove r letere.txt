@@ -1,0 +1,49 @@
+Hi There, we are a Dutch based company looking for a developer who can build AI Agents.
+
+The techniques we are using:
+
+- RAG
+- Fine-tuning
+- Vector Search (Pinecone)
+- Function Calling
+- GPT-4
+
+Requirements:
+
+- Perfect English Communication
+- Python
+- LangChain
+- GPT/LLM's
+- Fine-tuning
+- Vector Search
+
+If you think that you meet the requirements then please apply to this job.
+Note, the price is maximum $25,- per hour. Depended on your skills & location. Trying to apply for more is a waste of time.
+
+Hope to meet you soon!
+
+Kind Regards,
+
+George Gowers
+
+
+-------------------------------------
+ou must have previous experience working in a start-up or scale-up and be skilled with -
+
+Python
+Snowflake or Redshift
+dbt
+Cloud platforms
+IAC (Terraform is nice to have)
+
+--------------------------------------------
+Hi,
+
+I am interested in working with you. As you are finding someone who is interested in gaining experience in analysing data. I really want to get this opportunity. As I am good in communicating someone and problem solving.
+
+I have done many data analysis projects as I have done Data Science project in my course work that really helped to sharpen my skills in Exploratory data analysis, Data cleaning, Data gathering and gain experience in python, MySQL and excel for it.
+
+I hope you would consider me for your job post. So, that we both can get benefit. I would really help to solve your problems. BEST of Luck!
+
+Regards,
+Kabir
